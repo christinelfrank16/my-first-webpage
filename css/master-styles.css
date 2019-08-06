@@ -1,0 +1,27 @@
+html {
+  background-color: #94BEFF;
+}
+
+h1 {
+  font-style: oblique;
+  text-align: center;
+  font-family: "Palatino", URW Palladio L, serif;
+  font-size: 40px;
+}
+
+h2 {
+  color: #8F3FE8;
+  font-weight: bold;
+  background-color:#008B8B;
+}
+
+ul {
+  line-height: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
