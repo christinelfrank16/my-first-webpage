@@ -1,0 +1,26 @@
+html {
+  background-color: #94BEFF;
+}
+
+h1 {
+  font-style: oblique;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  color: #8F3FE8;
+  font-weight: bold;
+}
+
+ul {
+  line-height: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
